@@ -1,6 +1,6 @@
 .cards {
     background-color: grey;
     border-radius: 5px;
-    padding: 5px;
-    font-color: white;
+    padding: 8px;
+    width: 240px;
 }
